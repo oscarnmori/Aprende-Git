@@ -11,7 +11,6 @@
 
 1. FORMULAS:  
   . Energía es E=MC<sup>2</sup>
-  
   . El agua es H<sub>2</sub>O
 
 2. EMOJIS:  
