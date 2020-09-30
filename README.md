@@ -9,7 +9,9 @@ E=MC<sup>2</sup>
 
 2. EMOJIS:  
 :older_man:
+
 :alien:
+
 :rainbow:
 
 3. COLORES:  
