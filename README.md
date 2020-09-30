@@ -1,3 +1,3 @@
 # Aprende-Git
-*Repositorio para aprender GIT
+*Repositorio para aprender GIT*
 
