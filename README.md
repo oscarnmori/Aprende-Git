@@ -23,15 +23,15 @@ E=MC<sup>2</sup>
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- texto en rojo
++ texto en verde
+! text  en naranja
+# texto en gris
+@@ texto en violeta (y negrita )@@
 ```
 
 <a class="text-gray-dark no-underline" href="#url">
-  A link with only part of it is blue on hover
+  Un texto completo color azul
 </a>
 
 
