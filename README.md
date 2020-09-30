@@ -49,4 +49,4 @@
 
 <a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
    target="_blank"><img src="https://banner2.cleanpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="140" height="80" border="10" /></a>
