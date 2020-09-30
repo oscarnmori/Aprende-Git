@@ -36,21 +36,21 @@
 </a>
 
 5. LISTAS HTML
-<dl>
-  <dt>Lista de definición</dt>
-  <dd>Es algo que la gente usa de vez en cuando.</dd>
 
-  <dt>Markdown es HTML</dt>
-  <dd>Cuando *NO* trabaja **muy** bien. Usa <em>tags</em> HTML.</dd>
-</dl>
+  <dl>
+    <dt>Lista de definición</dt>
+    <dd>Es algo que la gente usa de vez en cuando.</dd>
+    <dt>Markdown es HTML</dt>
+    <dd>Cuando *NO* trabaja **muy** bien. Usa <em>tags</em> HTML.</dd>  
+  </dl>
 
 6. ENLACES MUDOS
 
-<a class="muted-link" href="#url">Enlaces Mudos</a>
+  <a class="muted-link" href="#url">Enlaces Mudos</a>
 
 7. VIDEOS
 
-<a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
+  <a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
    target="_blank"><img src="https://banner2.cleanpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" 
 alt="IMAGE ALT TEXT HERE" width="140" height="80" border="10" /></a>
 
