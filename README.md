@@ -8,7 +8,7 @@
 
 ### GitHub usa MARKDOWN:
 
-1. FORMULAS:  
+1. <u>FORMULAS</u>:  
   - Energía es E=MC<sup>2</sup>.
   - El agua es H<sub>2</sub>O.
 
