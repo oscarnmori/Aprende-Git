@@ -41,7 +41,7 @@
   <dd>Es algo que la gente usa de vez en cuando.</dd>
 
   <dt>Markdown es HTML</dt>
-  <dd>Cuando *NO* trabaja **muy** bien. Usa HTML <em>tags</em>.</dd>
+  <dd>Cuando *NO* trabaja **muy** bien. Usa <em>tags</em> HTML.</dd>
 </dl>
 
 
