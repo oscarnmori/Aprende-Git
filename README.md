@@ -24,3 +24,15 @@ E=MC<sup>2</sup>
 # text in gray
 @@ text in purple (and bold)@@
 ```
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
