@@ -32,11 +32,11 @@
     @ texto en violeta @
     @@ texto en violeta (y negrita) @@
     ```
-  - <a class="text-gray-dark no-underline" href="#url">
+   <a class="text-gray-dark no-underline" href="#url">
     Un texto completo color azul
     </a>
 
-  - <a><img src="color_texto.svg"/></a>
+   <a><img src="color_texto.svg"/></a>
 
 5. <ins>LISTAS HTML<ins>:
 
