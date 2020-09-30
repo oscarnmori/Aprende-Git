@@ -36,4 +36,12 @@
   Un texto completo color azul
 </a>
 
-¡Estoy muy <span style="font-family:Papyrus; font-size:4em;">FELIZ!</span>
+<dl>
+  <dt>lista de definición</dt>
+  <dd>Es algo que la gente usa de vez en cuando.</dd>
+
+  <dt>Markdown es HTML</dt>
+  <dd>Cuando *NO* trabaja **muy** bien. Usa HTML <em>tags</em>.</dd>
+</dl>
+
+
