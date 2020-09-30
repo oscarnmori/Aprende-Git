@@ -48,5 +48,5 @@
 
 
 <a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
-   target="_blank"><img src="https://yt3.ggpht.com/a/AATXAJwurr6PjaEGVTlzwj8bO_OLletWBmuVlAW33PZc=s88-c-k-c0xffffffff-no-rj-mo" 
+   target="_blank"><img src="https://banner2.cleanpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
