@@ -1,4 +1,4 @@
-# <span style="color:blue">Aprende-Git</span>.
+# \textcolor{red}{Aprende-Git}
 
 *Repositorio para aprender GIT*
 
