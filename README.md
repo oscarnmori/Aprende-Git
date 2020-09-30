@@ -36,6 +36,7 @@
   Un texto completo color azul
 </a>
 
+<a><img src="color_texto.svg"/></a>
 
 5. <ins>LISTAS HTML<ins>:
 
