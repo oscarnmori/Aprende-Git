@@ -1,10 +1,12 @@
-/play secret
+
 # Aprende-Git
 E=MC<sup>2</sup> 
 :older_man:
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+
+<a class="text-gray-dark no-underline" href="#url">
+  A link with only part of it is <span class="link-hover-blue">blue on hover</span>.
+</a>
+
 
 
 *Repositorio para aprender GIT*
