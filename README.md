@@ -13,9 +13,10 @@
   - El agua es H<sub>2</sub>O.
 
 2. <ins>EMOJIS</ins>:  
-:older_man:
-:alien:
-:rainbow:
+. :older_man:
+. :alien:
+. :rainbow:
+. [Cartilla de Referencias de Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 3. <ins>COLORES<ins>:  
 
