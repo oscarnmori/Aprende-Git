@@ -37,7 +37,7 @@
 </a>
 
 <dl>
-  <dt>lista de definición</dt>
+  <dt>Lista de definición</dt>
   <dd>Es algo que la gente usa de vez en cuando.</dd>
 
   <dt>Markdown es HTML</dt>
