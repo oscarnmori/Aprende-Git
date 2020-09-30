@@ -10,7 +10,8 @@
 ## GitHub usa MARKDOWN
 
 1. FORMULAS:  
-E=MC<sup>2</sup> 
+Energía es E=MC<sup>2</sup> 
+El agua es H<sub>2</sub>O
 
 2. EMOJIS:  
 :older_man:
