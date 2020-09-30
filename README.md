@@ -27,7 +27,8 @@ E=MC<sup>2</sup>
 + texto en verde
 ! text  en naranja
 # texto en gris
-@@ texto en violeta (y negrita )@@
+@ texto en violeta @
+@@ texto en violeta (y negrita) @@
 ```
 
 <a class="text-gray-dark no-underline" href="#url">
