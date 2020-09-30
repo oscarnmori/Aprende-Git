@@ -32,7 +32,7 @@
     @ texto en violeta @
     @@ texto en violeta (y negrita) @@
     ```
-   <a class="text-gray-dark no-underline" href="#url">
+    <a class="text-gray-dark no-underline" href="#url">
     Un texto completo color azul
     </a>
 
