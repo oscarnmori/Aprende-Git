@@ -12,12 +12,12 @@
   - Energía es E=MC<sup>2</sup>.
   - El agua es H<sub>2</sub>O.
 
-2. EMOJIS:  
+2. <ins>EMOJIS</ins>:  
 :older_man:
 :alien:
 :rainbow:
 
-3. COLORES:  
+3. <ins>COLORES<ins>:  
 
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
@@ -35,7 +35,7 @@
   Un texto completo color azul
 </a>
 
-5. LISTAS HTML
+5. <ins>LISTAS HTML<ins>:
 
   <dl>
     <dt>Lista de definición</dt>
@@ -44,11 +44,11 @@
     <dd>Cuando *NO* trabaja **muy** bien. Usa <em>tags</em> HTML.</dd>  
   </dl>
 
-6. ENLACES MUDOS
+6. <ins>ENLACES MUDOS<ins>:
 
   <a class="muted-link" href="#url">Enlaces Mudos</a>
 
-7. VIDEOS
+7. <ins>VIDEOS</ins>:
 
   <a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
    target="_blank"><img src="https://banner2.cleanpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg" 
