@@ -2,7 +2,7 @@
 # [Aprende-Git](https://github.com/oscarnmori/Aprende-Git/blob/master/README.md "")
 *Repositorio para aprender GIT*
 
-# [Aprende-Git](<a class="text-gray-dark no-underline" href="#url"></a> "")
+# [Aprende-Git](https://#url "")
 
 
 ## GitHub usa MARKDOWN
