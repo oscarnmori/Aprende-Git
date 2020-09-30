@@ -17,5 +17,10 @@ E=MC<sup>2</sup>
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
-
-¡Estoy <span style="font-family:Papyrus; font-size:4em;">ENAMORADO!</span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
