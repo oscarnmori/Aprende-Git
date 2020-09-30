@@ -1,6 +1,6 @@
 
-# [Aprende-Git](https://github.com/oscarnmori/Aprende-Git/blob/master/README.md "")
-## [Es fácil](http:// "")
+# [Git](https://github.com/oscarnmori/Aprende-Git/blob/master/README.md "")
+## [es fácil, amig@](http:// "")
 
 *Repositorio para aprender GIT*
 
