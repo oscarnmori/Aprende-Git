@@ -48,5 +48,5 @@
 
 
 <a href="https://www.youtube.com/watch?v=W0goZDxQ8EA" 
-   target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+   target="_blank"><img src="https://yt3.ggpht.com/a/AATXAJwurr6PjaEGVTlzwj8bO_OLletWBmuVlAW33PZc=s88-c-k-c0xffffffff-no-rj-mo" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
