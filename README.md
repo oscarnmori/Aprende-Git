@@ -1,8 +1,9 @@
 # Aprende-Git
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
+
 
 *Repositorio para aprender GIT*
 
