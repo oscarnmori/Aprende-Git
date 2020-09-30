@@ -5,8 +5,8 @@
      width="300" height="50"
 >
   <text font-size="16" x="10" y="20">
-    <tspan fill="green">Hola, ¿Como estas?</tspan>,
-    <tspan fill="red">Mi nombre es Oscar</tspan>!
+    <tspan fill="green">Hola, ¿Como estás?</tspan>,
+    <tspan fill="red">Mi nombre es Oscar Núñez Mori</tspan>!
   </text>
 </svg>
 
